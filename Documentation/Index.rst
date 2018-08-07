@@ -19,13 +19,13 @@ jQuery FancyBox for TYPO3
         cl_jquery_fancybox
 
     :Version:
-        3.x.x
+        4.x.x
 
     :Language:
         en
 
     :Description:
-        This extension adds the jQuery lightbox script "FancyBox 2" to you TYPO3 website.
+        This extension adds the jQuery lightbox script "fancyBox" in version 2 or 3 to your TYPO3 website.
 
     :Keywords:
         fancybox, jquery, frontend, javascript, lightbox
@@ -40,8 +40,12 @@ jQuery FancyBox for TYPO3
         GNU General Public License, either version 2 of the License or any
         later version.
 
-        Fancybox 2 is free for private websites and licensed under Creative Commons Attribution-NonCommercial 3.0 license.
+        fancyBox 2 is free for private websites and licensed under Creative Commons Attribution-NonCommercial 3.0 license.
         You can get the author's permission to use fancyBox for commercial websites by paying a fee at http://fancyapps.com/store/
+        
+        fancyBox 3 is licensed under the `GPLv3 license <http://opensource.org/licenses/gpl-3.0.html>`_ for all open source 
+        applications. 
+        A commercial license is required for all commercial applications (including sites, themes and apps you plan to sell).
 
 
     :Rendered:
